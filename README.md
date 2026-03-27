@@ -29,7 +29,7 @@ DAY-14-AM/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone [<your-repo-link>](https://github.com/avishkajindal05/DAY-14-AM.git)
 cd DAY-14-AM
 ```
 
