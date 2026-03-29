@@ -46,4 +46,3 @@ cd DAY-14-AM
 
 ---
 
-If you want, I can now create a **MASTER PORTFOLIO README (very important for internships)** combining all your Day 13–27 work into one strong GitHub profile.
